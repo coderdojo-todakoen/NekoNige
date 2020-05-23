@@ -1,0 +1,17 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uilds/
+/[Ll]ogs/
+
+!/[Aa]ssets/**/*.meta
+
+/Assets/Cartoon Cat/*
+!/Assets/Cartoon Cat/.gitkeep
+/Assets/Audio/*
+!/Assets/Audio/.gitkeep
+
+.vscode/
+
+*.csproj
+*.sln
